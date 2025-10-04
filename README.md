@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Engineer with over 5 years of experience specializing in scalable solutions for US-based companies. Expertise in Micro Frontend architectures using Next.js and React. Proven track record of leading agile multicultural teams to architect and deploy high-impact solutions, from AI-powered mobile apps to automated financial systems. Skilled in AWS, Node.js/TS, and automated testing.
+I am a Full-Stack Engineer with over 5 years of experience specializing in scalable solutions for US-based companies. Expertise in Micro Frontend architectures using Next.js and React. Proven track record of leading agile multicultural teams to architect and deploy high-impact solutions, from AI-powered mobile apps to automated financial systems. Skilled in AWS, Node.js/TS, and automated testing.
 
 
 ## 🌐 Socials:
