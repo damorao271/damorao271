@@ -1,8 +1,9 @@
 <!-- # 💫 About Me: -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0011,100:091519&height=150&text=Hi,%20I'm%20Daniel Morao 西村&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=%20Full Stack%20Developer&descSize=30&descAlignY=85&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Daniel%20Morao%20西村&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Fullstack%20Developer&descSize=30&descAlignY=85&section=header" />
 
-
+<p align="justify">
 I am a Full-Stack Engineer with over 5 years of experience specializing in scalable solutions for US-based companies. Expertise in Micro Frontend architectures using Next.js and React. Proven track record of leading agile multicultural teams to architect and deploy high-impact solutions, from AI-powered mobile apps to automated financial systems. Skilled in AWS, Node.js/TS, and automated testing.
+</p>
 
 ## 🌐 Socials:
 
