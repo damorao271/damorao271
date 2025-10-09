@@ -1,6 +1,6 @@
 <!-- # 💫 About Me: -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Daniel%20Morao%20西村&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Fullstack%20Developer&descSize=30&descAlignY=85&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Daniel%20Morao%20西村&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=%20Fullstack%20Developer&descSize=30&descAlignY=85&section=header" />
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ DevOps & Cloud:
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=damorao271&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <!-- [![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@damorao271i__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/damorao271i_)
